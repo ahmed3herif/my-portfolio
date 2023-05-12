@@ -320,6 +320,9 @@ footer{
     }
 }
 @media only screen and (max-width: 600px) {
+        header nav{
+            width: 98%;
+        }
         header .links ul{
             column-gap: 2px;
         }
