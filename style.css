@@ -323,6 +323,9 @@ footer{
         header .links ul{
             column-gap: 2px;
         }
+        header .links ul li a{
+            padding: 2px;
+        }
         .home .details{
             padding-left: 50px;
         }
