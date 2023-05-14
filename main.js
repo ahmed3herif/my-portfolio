@@ -1,15 +1,4 @@
-// const experience_tab = document.getElementById("experience-tab");
-// const skills_tab = document.getElementById("skills-tab");
-// const education_tab = document.getElementById("education-tab");
-// const experience = document.getElementsByClassName("experience");
-// const education = document.getElementsByClassName("education");
-// const skills = document.getElementsByClassName("skills");
-
-// experience_tab.addEventListner("click", experience)
-// function experience(){
-//     skills.style.display = "none";
-// }
-
+
 const skillsTab = document.getElementById("skills-tab");
 const experienceTab = document.getElementById("experience-tab");
 const educationTab = document.getElementById("education-tab");
