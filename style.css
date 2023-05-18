@@ -243,10 +243,11 @@ span{
     color: var(--main-color);
     border: 1px solid var(--main-color);
     border-radius: 5px;
-    transition: 0.2s;
+    transition: 0.3s;
 }
 .portfolio-link:hover, .contact-details div button:hover, .communication button:hover{
     background-color: var(--span-color);
+    transform: scale(1.1);
 }
 .contact{
     flex-direction: row;
@@ -279,7 +280,7 @@ span{
     color: var(--main-color);
     border: 1px solid var(--main-color);
     border-radius: 5px;
-    transition: 0.2s;
+    transition: 0.3s;
     cursor: pointer;
 }
 .communication{
